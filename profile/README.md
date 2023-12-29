@@ -17,4 +17,6 @@ Finalize combines AI technology with user requirements, dedicated to providing u
 
 We will gradually provide the [Finalize AI](https://github.com/finalize-ai) development tools for downloading and open-source the [finalize-core](https://github.com/finalize-ai/finalize-core), supporting a simple agent framework for calling various AI models.
 
- We have released a picture processing tool developed using Finalize AI called [Finalize Pixel](https://github.com/finalize-ai/finalize-pixel). You can download it for free use, and we will also open-source its source code in the future.
+We have released a picture processing tool developed using Finalize AI called [Finalize Pixel](https://github.com/finalize-ai/finalize-pixel). You can download it for free use, and we will also open-source its source code in the future.
+
+Join our Discord server <a target=_blank href="https://discord.com/invite/kuAw9K94">![discord](https://img.shields.io/discord/1190142567191433368?logo=discord&style=plastic)</a>
